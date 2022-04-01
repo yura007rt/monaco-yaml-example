@@ -8,7 +8,7 @@
 To run the project locally, clone the repository and set it up:
 
 ```sh
-git clone https://github.com/yura007rt/monaco-yaml-example
+git clone https://github.com/yura007rt/monaco-yaml-example.git
 cd monaco-yaml-example
 npm i
 ```
