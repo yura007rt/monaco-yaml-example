@@ -1,0 +1,16 @@
+{
+  "name": "vite-example",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite build && vite preview"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.31.0",
+    "monaco-yaml": "4.0.0-alpha.1",
+    "vite": "^2.0.0"
+  }
+}
